@@ -52,6 +52,11 @@ cv-image-processing-toolkit/
 2. **Headless Execution Environment**: Configured `opencv-python-headless` in `requirements.txt` to eliminate system-level X11/GUI display server bindings, preventing deployment conflicts in CI/CD pipelines or cloud hosting platforms (e.g., Streamlit Community Cloud, AWS App Runner).
 3. **RGB/BGR Memory Standardization**: Explicit color space conversions ensure seamless memory passing between OpenCV’s native BGR matrix format and Streamlit’s RGB web graphics renderer.
 
+### Results
+
+<img width="1920" height="863" alt="{D3D6FE35-033A-47DC-B9A4-626B21210A13}" src="https://github.com/user-attachments/assets/c24e6f07-38b0-49d4-a0ec-ac5ef0279152" />
+
+
 ---
 
 ## Getting Started
