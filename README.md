@@ -56,7 +56,7 @@ cv-image-processing-toolkit/
 
 <img width="1920" height="863" alt="{D3D6FE35-033A-47DC-B9A4-626B21210A13}" src="https://github.com/user-attachments/assets/c24e6f07-38b0-49d4-a0ec-ac5ef0279152" />
 <img width="1911" height="860" alt="{8F201ABF-11B8-4873-8A07-2120322631A2}" src="https://github.com/user-attachments/assets/8752bb5b-f57c-41f5-9230-51083d22a3c5" />
-![Uploading {4EEEADCD-C210-4327-886C-A3627424F7DE}.png…]()
+<img width="1902" height="859" alt="{4EEEADCD-C210-4327-886C-A3627424F7DE}" src="https://github.com/user-attachments/assets/59e6ffda-04ca-4ec4-9db6-8e3502012d47" />
 
 ---
 
