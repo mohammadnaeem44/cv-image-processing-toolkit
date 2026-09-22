@@ -5,6 +5,12 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+# 📷 Computer Vision Image Processing Toolkit
+
+[![Live App](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cv-image-processing-toolkit-ikfy823zzwrmg9gmvcqwyi.streamlit.app/)
+
+> **Live Web Application:** [cv-image-processing-toolkit.streamlit.app](https://cv-image-processing-toolkit-ikfy823zzwrmg9gmvcqwyi.streamlit.app/)
+
 A modular, web-based Computer Vision exploration platform built with **Python**, **OpenCV**, **NumPy**, and **Streamlit**. Designed following software engineering best practices, this toolkit provides an interactive environment to apply, parameterize, and analyze classic spatial transformations, color transformations, thresholding algorithms, and structural boundary detection methods.
 
 ---
